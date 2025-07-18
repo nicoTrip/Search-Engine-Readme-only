@@ -50,7 +50,7 @@ I also helped with:
 - **Java** for all backend components
 - **Custom-built MapReduce framework**
 - **File I/O** for scalable storage
-- **HTML parsing** (via [JSoup](https://jsoup.org) or similar Java library)
+- **HTML parsing** (via [JSoup](https://jsoup.org))
 
 ## Challenges & What I Learned
 
