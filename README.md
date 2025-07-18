@@ -67,7 +67,7 @@ Each order of magnitude in scale exposed new bottlenecks:
 - Appending to files reduced write time, but required careful file management
 - Sending one message per URL or task slowed the networking so we aggressively batchined all messages
 
-### 🌐 Web Crawling at Scale
+### Web Crawling at Scale
 - Could not crawl every link or visit most of the web so we had to prioritize and filter
 - Many URLs were dead, slow, or spammy which lead us to implement filtering heuristics and URL blacklists
 - Example blacklist rules:
