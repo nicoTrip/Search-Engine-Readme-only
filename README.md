@@ -75,4 +75,13 @@ Each order of magnitude in scale exposed new bottlenecks:
   - Blocked non-English Wikipedia (`[a-z]*.wiki.*.org`) while whitelisting English
   - Avoided problematic sites like `help.imdb.com`
 
+## Final Demo Examples
+<img width="619" height="576" alt="Screenshot 2025-07-18 at 5 29 29 PM" src="https://github.com/user-attachments/assets/e4547919-bd6d-4c71-8b2f-a4604f328d80" />
+
+<img width="620" height="573" alt="Screenshot 2025-07-18 at 5 29 22 PM" src="https://github.com/user-attachments/assets/9ab32262-b8da-4ad3-9628-d075141f435a" />
+
+<img width="614" height="586" alt="Screenshot 2025-07-18 at 5 29 14 PM" src="https://github.com/user-attachments/assets/6dbd9fde-2938-46df-951c-ac8a83d88ea1" />
+
+<img width="618" height="571" alt="Screenshot 2025-07-18 at 5 29 06 PM" src="https://github.com/user-attachments/assets/0790fc3a-8d28-4e4a-a005-916c2930da22" />
+
 
